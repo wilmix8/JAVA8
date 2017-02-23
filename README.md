@@ -41,7 +41,7 @@ with Merits
 
 It is the best Programming language which interact with JAVA8.
 
-10) Petal -> It is used with VJAVA, JAVA, WEB professionals
+10) Petal -> It is used with VJAVA, JAVA, JAVA8 professionals
 
 11) WPLUS -> Attractive Indian latest Programming Language
 
@@ -53,11 +53,11 @@ It is the best Programming language which interact with JAVA8.
 
 15) VJAVA -> Simillar to Jdk1.6 Features.
 
-16) ADollar -> It is used in Advanced Business and A$ is used to interact with WEB.
+16) ADollar -> It is used in Advanced Business and A$ is used to interact with JAVA8.
 
-17) UWEB => it is an american and U.k Programming Language based on WEB used in American and U.k sector.
+17) UWEB => it is an american and U.k Programming Language based on JAVA7 and  it is used in American and U.k sector.
 
-18) BHTML and CSP => it is an Banking Programming Language invented in WEB.
+18) BHTML and CSP => it is an Banking Programming Language invented in JAVA7.
 
 19)  JAVA/J2ee Framework => Struts,Spring ,Hibernate,JSF,java webservices and EJB,etc.
 
