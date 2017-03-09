@@ -5,7 +5,7 @@ JAVA8   is    invented by   wilmix  jemin j   in  JDollar at 2017  and  it is  f
 
 JDOLLAR  is  focused  on   ADVANCED BUSINESS with Mobile Apps.
 
-1) But  JAVA8  is used  by JAVA/J2ee  Professionals  and it  is focused  only on Mobile APPS.
+1) But  JAVA8  is used  by JAVA7  Professionals  and it  is focused  only on Mobile APPS.
 
 2) JSaucer never permits and it is used only
 
