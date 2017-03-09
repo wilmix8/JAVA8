@@ -59,6 +59,6 @@ It is the best Programming language which interact with JAVA8.
 
 18) BHTML and CSP => it is an Banking Programming Language invented in JAVA7.
 
-19)  JAVA/J2ee Framework => Struts,Spring ,Hibernate,JSF,java webservices and EJB,etc.
+19)  FRAMEWORK  SIMILLAR  to  struts ,spring ,hibernate.
 
-20) HERE   JAVA/J2ee class file  or  JAVA7 .exe or  JAVA7 .dll  is used.
+20) HERE     JAVA7 .exe or  JAVA7 .dll  is used.
