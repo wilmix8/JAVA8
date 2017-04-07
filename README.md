@@ -62,3 +62,9 @@ It is the best Programming language which interact with JAVA8.
 19)  FRAMEWORK  SIMILLAR  to  struts ,spring ,hibernate.
 
 20) HERE     JAVA7 .exe or  JAVA7 .dll  is used.
+
+31) JAVA8  is  a  Part  of  Jdollar(JWEB)  and  can  be  used   with  JAVA7.
+
+
+
+
