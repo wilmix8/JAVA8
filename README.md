@@ -69,4 +69,8 @@ It is the best Programming language which interact with JAVA8.
 
 32)  HERE  ONLY   JDK1.8,JDk1.7 ,Jdk1.6  tools  are  used  in JAVA8 compiler.
 
+33) JAVA1.8  Frameworks : Jdk1.8 /Jdk1.7  frameworks  like  struts,spring,jsf,etc  are     used  with  JDollar(JWEB)-Part2  Projects.  
+
+34) JAVA1.8 Advanced Business:  It  is  focused   with  JDollar(JWEB)  Advanced Business.
+
 
