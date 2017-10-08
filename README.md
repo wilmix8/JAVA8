@@ -3,7 +3,7 @@
 
 JAVA8   is    invented by   wilmix  jemin j   in  JDollar at 2017  and  it is  focused  only  on MobileApps
 
-for  JAVA/J2ee  Professionals.
+for  OAKJAVA7  Professionals.
 
 JDOLLAR  is  focused  on   ADVANCED BUSINESS with Mobile Apps.
 
@@ -66,9 +66,7 @@ It is the best Programming language which interact with JAVA8.
 20) HERE     JAVA7 .exe or  JAVA7 .dll  is used.
 
 31) JAVA8  is  a  Part  of  Jdollar(JWEB)  and  can  be  used   with  JAVA7.
-
-32)  HERE  ONLY   JDK1.8,JDk1.7 ,Jdk1.6  tools  are  used  in JAVA8 compiler.
  
-33) JAVA1.8 Advanced Business:  It  is  focused   with  JDollar(JWEB)  Advanced Business.
+32) JAVA1.8 Advanced Business:  It  is  focused   with  JDollar(JWEB)  Advanced Business.
 
 
