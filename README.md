@@ -3,7 +3,7 @@
 
 JAVA8   is    invented by   wilmix  jemin j   in  JDollar at 2017  and  it is  focused  only  on MobileApps
 
-for  OAKJAVA7  Professionals.
+for  JAVA/j2ee and  OAKJAVA7  Professionals.
 
 
 WILMIX  JEMIN PROFESSIONAL HISTORY
@@ -19,7 +19,7 @@ After  that   he  studied  more  brief  about  JAVA  @  NIIT  @  FEB  2002.
 
 so  JAVA  is  a  native  Programming  language  for  JDollar.
 
-AFter  that  JAVA8  is  invented  for  JAVA/j2ee  professionals.
+AFter  that  JAVA8  is  invented  for  JAVA/j2ee and  OAKJAVA7 professionals.
 
 
 JDOLLAR  is  focused  on   ADVANCED BUSINESS with Mobile Apps.
