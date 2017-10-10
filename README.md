@@ -13,7 +13,7 @@ AS  James  Gosling  real  father  of  Java  Programming  Language
 
 invented  java p.l. Wilmix jemin j  is  a   java/j2ee  professional  with  more  than  7  years exp.
 
-Wilmix  jemin  studied  java  at scott christian college @  JUNE  1999.
+Wilmix  jemin  done  project at   java - scott christian college @  JUNE  1999.
 
 After  that   he  studied  more  brief  about  JAVA  @  NIIT  @  FEB  2002.
 
