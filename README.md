@@ -5,6 +5,23 @@ JAVA8   is    invented by   wilmix  jemin j   in  JDollar at 2017  and  it is  f
 
 for  OAKJAVA7  Professionals.
 
+
+WILMIX  JEMIN PROFESSIONAL HISTORY
+=================================
+
+AS  James  Gosling  real  father  of  Java  Programming  Language
+
+invented  java p.l. Wilmix jemin j  is  a   java/j2ee  professional  with  more  than  7  years exp.
+
+Wilmix  jemin  studied  java  at scott christian college @  JUNE  1999.
+
+After  that   he  studied  more  brief  about  JAVA  @  NIIT  @  FEB  2002.
+
+so  JAVA  is  a  native  Programming  language  for  JDollar.
+
+AFter  that  JAVA8  is  invented  for  JAVA/j2ee  professionals.
+
+
 JDOLLAR  is  focused  on   ADVANCED BUSINESS with Mobile Apps.
 
 1) But  JAVA8  is used  by JAVA7  Professionals  and it  is focused  only on Mobile APPS.
