@@ -9,9 +9,9 @@ for   OAKJAVA7  Professionals.
 Note:  Some  information  are hidden  from hackers.
 
 
-JAVA8  is  focused  on   ADVANCED BUSINESS with Mobile Apps.
+JAVA8  is  focused  on   ADVANCED BUSINESS with  Wallet Mobile Apps.
 
-1) But  JAVA8  is used  by JAVA7  Professionals  and it  is focused  only on Mobile APPS.
+1) But  JAVA8  is used  by JAVA7.0  Professionals  and it  is focused  only on Wallet Mobile APPS.
 
 2) JSaucer never permits and it is used only
 
@@ -71,4 +71,7 @@ It is the best Programming language which interact with JAVA8.
 
 31) JAVA8  is  a  Part  of  Jdollar(JWEB)  and  can  be  used   with  JAVA7.
  
-32) JAVA1.8 Advanced Business:  It  is  focused   with  JDollar(JWEB)  Advanced Business.
+32) JAVA1.8 Advanced Business:  It  is  focused   with  JAVA8  Advanced Business.
+Advanced Business  is  the  way  of  making  projects  available  at  any time.
+JAVA1.8 Advanced Business  will  run    without   client.
+
