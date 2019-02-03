@@ -9,7 +9,7 @@ for   OAKJAVA7  Professionals.
 Note:  Some  information  are hidden  from hackers.
 
 
-JDOLLAR  is  focused  on   ADVANCED BUSINESS with Mobile Apps.
+JAVA8  is  focused  on   ADVANCED BUSINESS with Mobile Apps.
 
 1) But  JAVA8  is used  by JAVA7  Professionals  and it  is focused  only on Mobile APPS.
 
