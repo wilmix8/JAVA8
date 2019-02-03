@@ -3,7 +3,7 @@
 
 JAVA8   is    invented by   wilmix  jemin j   in  JDollar at 2017  and  it is  focused  only  on MobileApps
 
-for  JAVA/j2ee and  OAKJAVA7  Professionals.
+for   OAKJAVA7  Professionals.
 
 
 Note:  Some  information  are hidden  from hackers.
@@ -47,7 +47,7 @@ with Merits
 
 It is the best Programming language which interact with JAVA8.
 
-10) Petal -> It is used with VJAVA, JAVA, JAVA8 professionals
+10) Petal -> It is used with VJAVA, JAVA7.0, JAVA8 professionals
 
 11) WPLUS -> Attractive Indian latest Programming Language
 
@@ -72,6 +72,3 @@ It is the best Programming language which interact with JAVA8.
 31) JAVA8  is  a  Part  of  Jdollar(JWEB)  and  can  be  used   with  JAVA7.
  
 32) JAVA1.8 Advanced Business:  It  is  focused   with  JDollar(JWEB)  Advanced Business.
-
-33) JAVA/J2ee  Frameworks:  Only  JAVA/J2ee  frameworks  are  focused and  used  with JAVA8 p.L.
-
