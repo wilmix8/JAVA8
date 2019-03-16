@@ -1,17 +1,21 @@
 # JAVA8
 ========
 
-JAVA8   is    invented by   wilmix  jemin j   in  JDollar at 2017  and  it is  focused  only  on MobileApps
+JAVA8   is    invented by   wilmix  jemin j   in  Dotweb3.0 and  Java(jdk1.7)  at 2017  and  it is  focused  only  on MobileApps
 
-for   OAKJAVA7  Professionals.
+for   OAKJAVA7 /(Java/j2ee) Professionals.
 
+JAVA8(OakJava8) is focused on ADVANCED BUSINESS with Mobile Apps and Mobile WebApplication.
+
+But JAVA8 is used by OAK(JAVA7) and JAVA/j2ee Professionals and it is focused only on Mobile APPS
+and Mobile WebApplication.
 
 Note:  Some  information  are hidden  from hackers.
 
 
-JAVA8  is  focused  on   ADVANCED BUSINESS with  Wallet Mobile Apps.
+JAVA8  is  focused  on   ADVANCED BUSINESS with  Wallet Mobile Apps  and  Mobile  Webapplication.
 
-1) But  JAVA8  is used  by JAVA7.0  Professionals  and it  is focused  only on Wallet Mobile APPS.
+1) But  JAVA8  is used  by JAVA7.0 or  java/j2ee Professionals  and it  is focused  only on Wallet Mobile APPS.
 
 2) JSaucer never permits and it is used only
 
@@ -67,11 +71,10 @@ It is the best Programming language which interact with JAVA8.
 
 19)  FRAMEWORK  SIMILLAR  to  struts ,spring ,hibernate.
 
-20) HERE     JAVA7 .exe or  JAVA7 .dll  is used.
+20) HERE     JAVA8 .exe or  JAVA8 .dll  is used.
 
-31) JAVA8  is  a  Part  of  Jdollar(JWEB)  and  can  be  used   with  JAVA7.
  
-32) JAVA1.8 Advanced Business:  It  is  focused   with  JAVA8  Advanced Business.
+31) JAVA1.8 Advanced Business:  It  is  focused   with  JAVA8  Advanced Business.
 Advanced Business  is  the  way  of  making  projects  available  at  any time.
 JAVA1.8 Advanced Business  will  run    without   client.
 
