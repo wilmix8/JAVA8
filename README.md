@@ -1,7 +1,7 @@
 # JAVA8
 ========
 
-JAVA8   is    invented by   wilmix  jemin j   in  Dotweb3.0 and  Java(jdk1.7)  at 2017  and  it is  focused  only  on MobileApps
+JAVA8(OAKJAVA8)   is    invented by   wilmix  jemin j   in  Dotweb3.0 and  Java(jdk1.7)  at 2017  and  it is  focused  only  on MobileApps and  Mobile Web application
 
 for   OAKJAVA7 /(Java/j2ee) Professionals.
 and  It's  Ranked  a  World No:3 Programming Language.
@@ -79,3 +79,17 @@ It is the best Programming language which interact with JAVA8.
 Advanced Business  is  the  way  of  making  projects  available  at  any time.
 JAVA1.8 Advanced Business  will  run    without   client.
 
+ABOUT  OAKJAVA8(JAVA8.0)
+===========================
+
+OAKJAVA8(JAVA8.0) Programming language  is  part  of  JAVA7.0  Programming Language
+
+which  is  focused  for  mobile  web application.
+
+
+ie) OAKJAVA7(JAVA7.0) P.L consists  of  two  sections
+
+they   are    a)OAKJAVA7(JAVA7.0) p.L  b) OAKJAVA8(JAVA8.0) p.L.
+
+
+OAKJAVA8(JAVA8.0) Tutorial website is: https://sites.google.com/site/oakjava8programminglanguage/
